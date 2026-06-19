@@ -1,9 +1,11 @@
 # Deep learning for three-dimensional seismic fault prediction using convolutional neural networks 
 ### Yasir Bashir* , Dilek Yüksel, Begüm Akin, Derin Gezer, Muhsan Ehsan ,Muhammad Khan , and Syed Haroon Ali
 
+### Availability of data
+###### Data are available from the corresponding author upon reasonable request, and the codes are available online at the GitHub repository.
 ### Code availability section
 ###### Name of the code/library: CNN-fault-prediction
-###### Contact: (Email) dryasir.bashir@live.com, ybashir@itu.edu.tr; (Phone) +905366224503
+###### Contact: (Email) dryasir.bashir@live.com, ybashir@itu.edu.tr
 ###### Hardware requirements: Intel(R) Xeon(R) CPU E5-2678 v3 @ 2.50 GHz and an NVIDIA GeForce GTX 1080 Ti GPU.
 ###### Program language: Python
 ###### Software required: Anaconda, Jupyter Notebook
