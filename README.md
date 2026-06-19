@@ -1,5 +1,18 @@
 # Deep learning for three-dimensional seismic fault prediction using convolutional neural networks 
 ### Yasir Bashir* , Dilek Yüksel, Begüm Akin, Derin Gezer, Muhsan Ehsan ,Muhammad Khan , and Syed Haroon Ali
 
+### Code availability section
+###### Name of the code/library: CNN-fault-prediction
+###### Contact: (Email) dryasir.bashir@live.com, ybashir@itu.edu.tr; (Phone) +905366224503
+###### Hardware requirements: Intel(R) Xeon(R) CPU E5-2678 v3 @ 2.50 GHz and an NVIDIA GeForce GTX 1080 Ti GPU.
+###### Program language: Python
+###### Software required: Anaconda, Jupyter Notebook
+###### Program size: 5 Gigabytes
+###### The source codes are available for download at: https://github.com/dryasir/CNN-Fault-Prediction 
+
+
 #### Abstract
 ###### Understanding seismic faults is essential for generating prospects, modeling reservoirs, and assessing carbon dioxide storage. Identifying faults in complex tectonic regimes presents significant challenges, especially in areas that have undergone multiple phases of tectonic activity. Even with advances in structural seismic attributes and machine learning, interpreters often rely on manual methods to examine complex fault systems. This work introduces a method for predicting three-dimensional seismic faults using convolutional neural networks (CNNs), effectively overcoming the constraints of conventional interpretation techniques. The research uses CNNs to demonstrate the effectiveness of seismic attributes in training models that identify faults with high accuracy and consistency. This approach, unlike manual interpretation, reduces time, costs, and subjective errors by leveraging automated learning techniques, thereby improving reproducibility and efficiency while reducing interpreter bias. The research highlights the growing importance of solid computational tools in geophysics, especially as seismic datasets become more complex and wider. The approach significantly enhances confidence in artificial intelligence-assisted geological analysis by validating its performance with realworld data. The validation accuracy rises from 0.936 to 0.9436 across configurations, while the validation loss increases from 0.5635 to 0.9941 across diverse patches of the trained model.
+
+
+
